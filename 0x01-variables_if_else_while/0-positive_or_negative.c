@@ -9,8 +9,6 @@ int main (void)
 {
 	int n;
 
-	stand(time(0));
-	n = rand() - RAND_MAX / 2;
 	if( n>0 ) {
 		printf("%d is posetive\n", n);
 	} else if( n==o ) {
