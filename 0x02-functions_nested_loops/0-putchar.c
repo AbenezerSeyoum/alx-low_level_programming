@@ -10,11 +10,11 @@ int main(void)
 _putchar('_');
 _putchar('p');
 _putchar('u');
-_puthcar('t');
-_puthcar('c');
-_puthcar('h');
-_puthcar('a');
-_puthcar('r');
-_puthcar('\n');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
 return (0);
 }
