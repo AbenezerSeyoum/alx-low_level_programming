@@ -7,7 +7,7 @@
 
 int main(void)
 {
-_puthcar('_');
+_putchar('_');
 _putchar('p');
 _putchar('u');
 _puthcar('t');
