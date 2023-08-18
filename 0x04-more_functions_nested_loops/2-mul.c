@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
  * mul - Multiples of two integers
  * @x: the first number to multiply
@@ -7,7 +8,10 @@
  * Return: The result of multiplication of x param and y param
  */
 
-int mult(int x, int y)
+int mul(int x, int y)
+
 {
+
 	return (x * y);
+
 }
