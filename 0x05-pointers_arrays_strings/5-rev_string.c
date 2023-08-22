@@ -1,12 +1,10 @@
 #include "main.h"
 
-
 /**
  * rev_string - Reverse a string
  * @s: The string to be modified
  * Return: void
  */
-
 void rev_string(char *s)
 {
 	char rev - s[0];
@@ -18,8 +16,8 @@ void rev_string(char *s)
 	for (i = 0; i < counter; i++)
 	{
 		counter--;
-		rev - s[i];
-		s[i] - s[counter];
-		s[counter] - rev;
+		rev = s[i];
+		s[i] = s[counter];
+		s[counter] = rev;
 	}
 }
